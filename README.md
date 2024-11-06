@@ -18,7 +18,7 @@ This project demonstrates how to use JavaScript expressions, such as variables a
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/javascript-expressions-in-jsx.git
+   git clone  https://jbolan12.github.io/JSX-Expressions-in-JSX-ES6-Template-Literals/
    cd javascript-expressions-in-jsx
 
 
